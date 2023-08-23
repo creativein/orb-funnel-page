@@ -63,9 +63,9 @@ strong {
   border: 1px solid rgba(255, 255, 255, 0.125);
 }
 
-.overlay__inner {
+/* .overlay__inner {
   max-width: 36rem;
-}
+} */
 
 .overlay__title {
   font-size: 1.875rem;
@@ -88,8 +88,10 @@ strong {
 }
 
 .overlay__description {
-  font-size: 1rem;
-  line-height: 1.75rem;
+  font-size: 2rem;
+  line-height: 2.75rem;
+  /* font-size: 1rem;
+  line-height: 1.75rem; */
   margin-bottom: 3rem;
 }
 
