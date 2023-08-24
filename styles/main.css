@@ -144,6 +144,11 @@ a {
   align-items: center;
 }
 
+.privacy-bar {
+  position: absolute;
+  bottom: 15px;
+}
+
 /* Not too many browser support this yet but it's good to add! */
 @media (prefers-contrast: high) {
   .orb-canvas {
